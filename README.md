@@ -74,7 +74,7 @@ The expansion style describes the behavior when the cell is swiped past a define
 
 ## Requirements
 
-* Swift 4.1
+* Swift 4.1 (Can also be used in projects that are still in Swift 3)
 * Xcode 9+
 * iOS 9.0+
 
@@ -93,6 +93,9 @@ pod 'SwipeCellKit', :git => 'https://github.com/SwipeCellKit/SwipeCellKit.git', 
 
 # If you like to live dangerously
 pod 'SwipeCellKit', :git => 'https://github.com/SwipeCellKit/SwipeCellKit.git', :branch => 'swift_4.2'
+
+# If you like to still use with projects in Swift 3
+pod 'SwipeCellKit', :git => 'https://github.com/zaimramlan/SwipeCellKit.git'
 ````
 
 #### [Carthage](https://github.com/Carthage/Carthage)

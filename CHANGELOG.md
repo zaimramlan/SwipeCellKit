@@ -2,6 +2,10 @@
 
 `SwipeCellKit` adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.4.4](https://github.com/jerkoch/SwipeCellKit/releases/tag/2.4.4)
+
+- Added compatibility with Swift 3
+
 ## [2.4.3](https://github.com/jerkoch/SwipeCellKit/releases/tag/2.4.3)
 
 #### Fixed
